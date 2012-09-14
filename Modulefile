@@ -1,0 +1,8 @@
+me    'puppet-shopware'
+version '0.1.0'
+source 'UNKNOWN'
+author 'BjoernSchotte'
+license 'GPL v3 or later'
+summary 'Shopware4 Development Environment'
+description 'Setup Shopware4 CE with MySQL and Apache via puppet'
+project_page 'http://www.shopware.de'
